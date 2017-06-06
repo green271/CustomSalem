@@ -1,3 +1,7 @@
+Examples: 
+
+
+
 # YOU MUST HAVE THE STEAM VERSION FOR THIS TO WORK !!!
 # Select all of the text in the other file (CTRL + A) Then copy it (CTRL + C) and go to steam.
 # Right click "Town of Salem" and go to Properties
