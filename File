@@ -148,7 +148,7 @@
 	<Entry>
 		<id>29</id>
 		<Text>Your target is the Mystery role!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0xA64D79</Color>
 	</Entry>
 	<Entry>
 		<id>30</id>
@@ -618,12 +618,12 @@
 	<Entry>
 		<id>123</id>
 		<Text>You were attacked by the Juggernaut!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0xA64D79</Color>
 	</Entry>
 	<Entry>
 		<id>124</id>
 		<Text>You were attacked but the Guardian Angel saved you!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0xFFFFFF</Color>
 	</Entry>
 	<Entry>
 		<id>125</id>
@@ -638,37 +638,37 @@
 	<Entry>
 		<id>127</id><!--- This is a Hex Master attack--->
 		<Text>You were attacked by a Hex Master!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>128</id><!--- This is a Necromancer Necronomicon attack--->
 		<Text>You were attacked by a Necromancer!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>129</id>
 		<Text>Someone tried to poison you but you were jailed last night!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>130</id>
 		<Text>Someone tried to poison you but someone fought off your attacker!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>131</id>
 		<Text>You were poisoned but someone nursed you back to health!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x00FF00</Color>
 	</Entry>
 	<Entry>
 		<id>132</id>
 		<Text>You were poisoned. You will die tomorrow unless you are cured!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>133</id>
 		<Text>You died to poison!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>134</id>
@@ -678,17 +678,17 @@
 	<Entry>
 		<id>135</id>
 		<Text>You were poisoned. You will die tomorrow!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>136</id>
 		<Text>You turned someone to stone.</Text>
-		<Color>0xFF0000</Color>
+		<Color>0xCCCCCC</Color>
 	</Entry>
 	<Entry>
 		<id>137</id>
 		<Text>You were turned to stone.</Text>
-		<Color>0xFF0000</Color>
+		<Color>0xCCCCCC</Color>
 	</Entry>
 	<Entry>
 		<id>138</id>
@@ -703,7 +703,7 @@
 	<Entry>
 		<id>140</id>
 		<Text>You were attacked but a trap saved you!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x00FF00</Color>
 	</Entry>
 	<Entry>
 		<id>141</id>
@@ -728,12 +728,12 @@
 	<Entry>
 		<id>145</id>
 		<Text>The town is too evil to find anyone good!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x00FF00</Color>
 	</Entry>
 	<Entry>
 		<id>146</id>
 		<Text>The town is too small to accurately find an evil doer!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x00FF00</Color>
 	</Entry>
 	<Entry>
 		<id>147</id>
@@ -743,7 +743,7 @@
 	<Entry>
 		<id>148</id><!--- This is a Potion Master attack--->
 		<Text>You were attacked by a Potion Master!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>149</id>
@@ -758,7 +758,7 @@
 	<Entry>
 		<id>151</id>
 		<Text>Your target gets more powerful with each kill. They must be a Juggernaut.</Text>
-		<Color>0xFF0000</Color>
+		<Color>0xA64D79</Color>
 	</Entry>
 	<Entry>
 		<id>152</id>
@@ -773,32 +773,32 @@
 	<Entry>
 		<id>154</id>
 		<Text>Your target works with alchemy. They must be a Potion Master.</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>155</id>
 		<Text>Your target leads the mystical. They must be the Coven Leader.</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>156</id>
 		<Text>Your target is versed in the ways of hexes. They must be the Hex Master.</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>157</id>
 		<Text>Your target uses the deceased to do their dirty work. They must be the Necromancer.</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>158</id>
 		<Text>Your target uses herbs and plants to kill their victims. They must be the Poisoner.</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x8E7CC3</Color>
 	</Entry>
 	<Entry>
 		<id>159</id>
 		<Text>Your target has a gaze of stone. They must be Medusa.</Text>
-		<Color>0xFF0000</Color>
+		<Color>0xCCCCCC</Color>
 	</Entry>
 	<Entry>
 		<id>160</id>
@@ -838,12 +838,12 @@
 	<Entry>
 		<id>167</id>
 		<Text>Juggernaut killed healed player</Text>
-		<Color>0xFF0000</Color>
+		<Color>0xA64D79</Color>
 	</Entry>
 	<Entry>
 		<id>168</id>
 		<Text>Your target is a member of the Coven!</Text>
-		<Color>0xFF0000</Color>
+		<Color>0x9900FF</Color>
 	</Entry>
 	<Entry>
 		<id>169</id>
